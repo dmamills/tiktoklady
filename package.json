@@ -1,0 +1,11 @@
+{
+  "name": "tiktoklady",
+  "version": "1.0.0",
+  "description": "tiktok lady voice to mp3",
+  "main": "index.js",
+  "type": "module",
+  "author": "dmamills",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
